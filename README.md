@@ -16,7 +16,7 @@ A web-based system designed to allow students to lend and borrow academic materi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/PeerLendingLibrary-IT342-G01-Group1.git
+   git clone [https://github.com/yourusername/PeerLendingLibrary-IT342-G01-Group1.git](https://github.com/zendrix-hub/PeerLendingLibrary-IT342-G01-Group8.git)
 
 ## Team Members
 
