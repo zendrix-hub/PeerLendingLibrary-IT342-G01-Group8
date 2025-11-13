@@ -1,10 +1,29 @@
+Node.js (Frontend)
+
 node_modules/
-.env
 dist/
 build/
-.vscode/
-.idea/
-.DS_Store
+.env
+npm-debug.log
+yarn-error.log
+coverage/
+
+Java / Maven (Backend)
+
+target/
+.mvn/wrapper/maven-wrapper.jar
+*.jar
+*.war
+*.ear
+.class
+hs_err_pid
 logs/
 *.log
-coverage/
+
+IDE & OS
+
+.idea/
+*.iml
+*.iws
+.vscode/
+.DS_Store
